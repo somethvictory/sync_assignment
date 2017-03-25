@@ -1,6 +1,6 @@
 # README
 
-This is a sample Rails API app to serve as a web service for a client side resident data sync app. 
+This is a sample Rails API app to serve as a web service for a [client side resident data sync app](https://github.com/somethvictory/sync_client). 
 
 Note: The app only serves the API, no view, or any asset.
 
