@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 
 gem 'rails',            '~> 5.0.2'
 gem 'sqlite3'
-gem 'puma',             '~> 3.0'
 gem 'strip_attributes', '~> 1.8.0'
 
 gem 'active_model_serializers', '~> 0.10.5'
